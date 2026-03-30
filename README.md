@@ -1,4 +1,4 @@
-# cloud-kitchen-demand-forecasting
+# Cloud-Kitchen-Demand-Forecasting
 Machine Learning project for Demand Forecasting using Random Forest and XGBoost
 
 
