@@ -38,17 +38,12 @@ The dataset includes features like:
 
 ## Results
 - Random Forest MAE: ~2.57  
-- XGBoost MAE: ~2.53  
-
+- XGBoost MAE: ~2.53
+  
+## Key Result
+Achieved Mean Absolute Error (MAE) of ~2.53 using XGBoost.
 
 XGBoost performed slightly better.
-
-
-## How to Run
-1. Clone the repository  
-2. Download dataset from Kaggle  
-3. Place dataset in `data/` folder  
-4. Run the notebook  
 
 
 ## Conclusion
