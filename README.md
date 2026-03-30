@@ -8,15 +8,19 @@ This project builds a machine learning model to forecast demand using historical
 
 
 ##  Dataset
+This project uses a modified retail sales dataset with additional features such as price, promotions, and time-based attributes.
+
+The dataset is inspired by publicly available demand forecasting datasets on Kaggle.
+
 Due to file size limitations, the dataset is not included in this repository.
-
-
-Download it from:
-https://www.kaggle.com/competitions/store-item-demand-forecasting-challenge/data
-
-
-After downloading, place the file inside:
-data/retail_sales.csv
+The dataset includes features like:
+- Date
+- Store ID
+- Item ID
+- Sales
+- Price
+- Promotions
+- Weekday and Month
 
 
 ## Technologies Used
